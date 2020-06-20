@@ -7,7 +7,7 @@
     <ProjectGuid>{DC81522F-BCA0-4340-B74A-025E23D80BAE}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>ConsoleApp2</RootNamespace>
-    <AssemblyName>ConsoleApp2</AssemblyName>
+    <AssemblyName>zjy_PM_to_kml</AssemblyName>
     <TargetFrameworkVersion>v4.6</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -45,6 +45,7 @@
   <ItemGroup>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="zjy_cad_roadinfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
